@@ -1,6 +1,6 @@
 # 
 <p align="center">
-  <img src="[https://your-logo-url-here.png](https://raw.githubusercontent.com/LB-Development-tech/.github/profile)" alt="LB Dev Logo" width="120"/>
+  <img src="[https://your-logo-url-here.png](https://raw.githubusercontent.com/LB-Development-tech/.github/profile/LB Development Colour White Text.png)" alt="LB Dev Logo" width="120"/>
 </p>
 
 <h1 align="center">LB Dev</h1>
