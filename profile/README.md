@@ -1,6 +1,11 @@
-# 🌐 LB Dev
+# 
+<p align="center">
+  <img src="[https://your-logo-url-here.png](https://raw.githubusercontent.com/LB-Development-tech/.github/profile)" alt="LB Dev Logo" width="120"/>
+</p>
 
-**From imagination to innovation.**
+<h1 align="center">LB Dev</h1>
+
+**Your vision, our innovation.**
 
 LB Dev is a creative software and web development studio focused on crafting sleek, powerful, and reliable digital experiences.  
 We design websites, APIs, and custom applications that blend modern design with smart functionality — empowering creators, teams, and communities to bring their ideas to life.
