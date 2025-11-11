@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/LB-Development-tech/.github/blob/3afb2fa5127d6b156e20343b6f383e09e6d40ad6/profile/LB%20Development%20Colour%20White%20Text.png" alt="LB Dev Logo" width="80"/><br>
+  <img src="https://github.com/LB-Development-tech/.github/blob/3afb2fa5127d6b156e20343b6f383e09e6d40ad6/profile/LB%20Development%20Colour%20White%20Text.png" alt="LB Dev Logo" width="180"/><br>
   LB Dev  
 </h1>
 
