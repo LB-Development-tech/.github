@@ -23,7 +23,7 @@ To make technology **simple, scalable, and inspiring** — helping people and or
 ---
 
 ## 💡 Projects
-Check out our ongoing and upcoming work on our [**Projects Page**](https://lbdev.tech/projects):  
+Check out our ongoing and upcoming work on our [**Projects Page**](https://lbdev.tech/projects).
 
 ---
 
